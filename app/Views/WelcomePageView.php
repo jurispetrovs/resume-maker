@@ -11,7 +11,10 @@
         <?php require_once __DIR__ . '/../Views/LeftSidebarView.php'; ?>
         <div class="body-container">
             <div class="body">
-                <p>There would be some information about Resume maker ! :)</p>
+                <p>
+                    A web application where you can create your personal resume.
+                    More features will be added in the future.
+                </p>
             </div>
         </div>
         <?php require_once __DIR__ . '/../Views/RightSidebarView.php'; ?>
